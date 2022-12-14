@@ -7,8 +7,8 @@ import { HomeComponent } from './pages/home/home.component';
 import { ProjectsComponent } from './pages/projects/projects.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ContactComponent } from './pages/contact/contact.component';
-import { NavComponent } from './templates/nav/nav.component';
-import { FooterComponent } from './templates/footer/footer.component';
+import { NavComponent } from './pages/nav/nav.component';
+import { FooterComponent } from './pages/footer/footer.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
